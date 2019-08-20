@@ -81,3 +81,6 @@ mutation login($username: String, $password: String) {
 7. `/graphql` must be accessible for external clients.
 
 8. End.
+
+
+# Solution by Peter Sculley
